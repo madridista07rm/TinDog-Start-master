@@ -1,1 +1,1 @@
-TinDog Starting Files
+ All Files
